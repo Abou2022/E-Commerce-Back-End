@@ -1,13 +1,13 @@
 # Object-Relational Mapping (ORM): E-Commerce Back End
 
-    ## Table of Contents:
+## Table of Contents:
 
     1. Descriptions
     2. Installation
     3. Technologies
     4. Mock-Up
     5. Github
-    5.Question
+    5. Questions
 
 ## Description
 
@@ -61,13 +61,12 @@ The following animation shows the application's POST, PUT, and DELETE routes for
 
 Your walkthrough video should also show the POST, PUT, and DELETE routes for products and tags being tested in Insomnia.
 
-## Github
+## Questions
 
-https://github.com/Abou2022/E-Commerce-Back-End
+For any question, you can email me or reach out via Github:
 
-### Question
-
-syllabakary2002@gmail.com
+- [email](mailto:syllabakary2002@gmail.com)
+- [Github](https://github.com/Abou2022/E-Commerce-Back-End)
 
 ---
 
